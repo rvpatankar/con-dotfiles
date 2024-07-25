@@ -17,3 +17,4 @@ ln -sf "$PWD/config.nix" "$XDG_CONFIG_HOME"/nixpkgs/config.nix
 # install Nix packages from config.nix
 nix-env -iA nixpkgs.myPackages
 
+zsh
