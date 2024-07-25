@@ -12,6 +12,7 @@
         zsh
         oh-my-posh
         zinit
+        nodejs_18
       ];
     };
   };
