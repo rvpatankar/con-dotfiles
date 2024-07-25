@@ -6,6 +6,7 @@ mkdir -p "$XDG_CONFIG_HOME"/nixpkgs
 
 ln -sf "$PWD/nvim" "$XDG_CONFIG_HOME"/nvim
 ln -sf "$PWD/tmux" "$XDG_CONFIG_HOME"/tmux
+ln -sf "$PWD/tmux" "$XDG_CONFIG_HOME"/ohmyposh
 
 #ln -sf "$PWD/.bash_profile" "$HOME"/.bash_profile
 #ln -sf "$PWD/.bashrc" "$HOME"/.bashrc
